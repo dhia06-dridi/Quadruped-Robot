@@ -70,6 +70,8 @@ The **Quadruped_Robot.ino** file contains the main functionalities:
 - **Jump**: Simulates a jumping motion.
 - ![75249550-3cbf-431f-ac0c-012ca557ed17](https://github.com/user-attachments/assets/36452c92-2c14-4787-9ba4-0a575930b9de)
 
+
+
 - **Obstacle detection**: Stops the robot if an object is detected within 10 cm.
   ![robot](https://github.com/user-attachments/assets/fa09eb65-4020-4d62-b175-4dd90389d712)
 
