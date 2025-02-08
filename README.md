@@ -88,7 +88,7 @@ The **Quadruped_Robot.ino** file contains the main functionalities:
 ## Author
 Developed by **Dhia Dridi & Akrem Azizi** as part of the **Master RAIA** program at the **Higher Institute of Technological Studies of Bizerte (ISET Bizerte)**.
 
-https://youtube.com/shorts/DmwWN7flZXs
+[https://youtube.com/shorts/DmwWN7flZXs](https://www.youtube.com/shorts/DmwWN7flZXs?t=2&feature=share)
 ## License
 This project is licensed under the **MIT** License - see the [LICENSE](LICENSE) file for details.
 
