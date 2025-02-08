@@ -8,6 +8,7 @@ This project involves the design and implementation of a **bionic quadruped robo
 - **Pre-programmed actions**: jump and salute.
 - **Obstacle detection** using the HC-SR04 sensor.
 - **Wi-Fi connectivity** via ESP8266 for remote control with RemoteXY.
+![image](https://github.com/user-attachments/assets/5762e062-5ef6-4010-9952-80b031f01f91)
 
 ## Hardware Used
 - **ESP8266 (NodeMCU)**: Main microcontroller.
@@ -67,14 +68,14 @@ The **Quadruped_Robot.ino** file contains the main functionalities:
 - **Move forward**: Moves the robot forward.
 - **Turn left/right**: Adjusts direction.
 - **Jump**: Simulates a jumping motion.
-- ![75249550-3cbf-431f-ac0c-012ca557ed17](https://github.com/user-attachments/assets/36452c92-2c14-4787-9ba4-0a575930b9de)
+![75249550-3cbf-431f-ac0c-012ca557ed17](https://github.com/user-attachments/assets/36452c92-2c14-4787-9ba4-0a575930b9de)
 
 - **Obstacle detection**: Stops the robot if an object is detected within 10 cm.
 ![robot](https://github.com/user-attachments/assets/fa09eb65-4020-4d62-b175-4dd90389d712)
 
 ## Simulation and Testing
 - **real world** create a real prototype.
-- ![22](https://github.com/user-attachments/assets/edeca72e-1b9f-4eb2-b868-a1f6f3d8cb00)
+ ![22](https://github.com/user-attachments/assets/edeca72e-1b9f-4eb2-b868-a1f6f3d8cb00)
 
 
 ## Future Improvements
