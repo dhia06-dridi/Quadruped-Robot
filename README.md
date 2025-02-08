@@ -62,20 +62,20 @@ The **Quadruped_Robot.ino** file contains the main functionalities:
 - **HC-SR04 sensor reading** for obstacle detection.
 - **Interface with RemoteXY** for Wi-Fi control.
 - **Reset servomotors** after each action.
-![4a1afc2540a94449be1a5f592d336d9c](https://github.com/user-attachments/assets/ac93f5b9-cf55-4ac1-a56a-1048e6d787a6)
+- ![4a1afc2540a94449be1a5f592d336d9c](https://github.com/user-attachments/assets/ac93f5b9-cf55-4ac1-a56a-1048e6d787a6)
 
 ## Command Examples
 - **Move forward**: Moves the robot forward.
 - **Turn left/right**: Adjusts direction.
 - **Jump**: Simulates a jumping motion.
-![75249550-3cbf-431f-ac0c-012ca557ed17](https://github.com/user-attachments/assets/36452c92-2c14-4787-9ba4-0a575930b9de)
+- ![75249550-3cbf-431f-ac0c-012ca557ed17](https://github.com/user-attachments/assets/36452c92-2c14-4787-9ba4-0a575930b9de)
 
 - **Obstacle detection**: Stops the robot if an object is detected within 10 cm.
-![robot](https://github.com/user-attachments/assets/fa09eb65-4020-4d62-b175-4dd90389d712)
+  ![robot](https://github.com/user-attachments/assets/fa09eb65-4020-4d62-b175-4dd90389d712)
 
 ## Simulation and Testing
 - **real world** create a real prototype.
- ![22](https://github.com/user-attachments/assets/edeca72e-1b9f-4eb2-b868-a1f6f3d8cb00)
+- ![22](https://github.com/user-attachments/assets/edeca72e-1b9f-4eb2-b868-a1f6f3d8cb00)
 
 
 ## Future Improvements
